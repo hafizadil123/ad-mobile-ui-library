@@ -1,6 +1,6 @@
 import { StyleSheet, Text, TouchableOpacity } from 'react-native';
 
-const ButtonComponent = ({
+export const Button = ({
   title,
   onPress,
 }: {
@@ -22,8 +22,6 @@ const ButtonComponent = ({
     </TouchableOpacity>
   );
 };
-
-export default ButtonComponent;
 
 const styles = StyleSheet.create({
   buttonStyleContainer: {
