@@ -1,6 +1,6 @@
 {
   "name": "ad-mobile-ui-libary",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "This libaray will handle the UI components for the react native projects",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
