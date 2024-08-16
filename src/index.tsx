@@ -1,3 +1,4 @@
-export function multiply(a: number, b: number): Promise<number> {
-  return Promise.resolve(a * b);
-}
+export * from './components/add';
+export * from './components/subtract';
+export * from './components/multiply';
+export * from './components/divide';
