@@ -1,6 +1,6 @@
 {
   "name": "ad-mobile-ui-libary",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This libaray will handle the UI components for the react native projects",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -51,14 +51,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adilsikandar204/ad-mobile-ui-libary.git"
+    "url": "git+https://github.com/hafizadil123/ad-mobile-ui-library"
   },
-  "author": "Adil Sikandar <ahafiz167@gmail.com> (https://github.com/adilsikandar204)",
+  "author": "Adil Sikandar <ahafiz167@gmail.com> (https://github.com/adilsikandar123)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adilsikandar204/ad-mobile-ui-libary/issues"
+    "url": "https://github.com/adilsikandar123/ad-mobile-ui-libary/issues"
   },
-  "homepage": "https://github.com/adilsikandar204/ad-mobile-ui-libary#readme",
+  "homepage": "https://github.com/adilsikandar123/ad-mobile-ui-libary#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
